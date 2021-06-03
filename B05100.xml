@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against the continuation of a general liberty for exporting the woollen manufactures of this kingdom by foreigners, into the privileges of the Merchants Adventurers of England</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05100</idno><idno type="EEBO-CITATION">52614871</idno>
+  <idno type="VID">176057</idno>
+  <idno type="EEBO-PROQUEST">2240859606</idno>
+  
+            <idno type="STC">Wing R527A</idno>
+            <idno type="STC">ESTC R205794</idno>
+            <idno type="OCLC">52614871</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176057)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against the continuation of a general liberty for exporting the woollen manufactures of this kingdom by foreigners, into the privileges of the Merchants Adventurers of England</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Company of Merchant Adventurers of England.</term>
+               <term type="topical_term">Wool industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:176057:1"/>
+            <pb n="1" facs="tcp:176057:2"/>
+            <head>REASONS <hi>Humbly Offered against the Continuation of a General Liberty for Exporting the</hi> Woollen Manufa<g ref="char:EOLhyphen"/>ctures <hi>of this Kingdom by</hi> Foreigners, <hi>into the Privileges of the</hi> Merchants Adventurers <hi>of</hi> ENGLAND.</head>
+            <p>THE Regulation of Trade being, by long Experience, found as necessary as of Men's Persons, almost all particular Trades of the Subject, both at Home and Abroad, have, for a long Series of Time, been under a Regulation, by Corporations, Erected and Impowered by Royal Charter: And, amongst others, in <hi>Edward</hi> I.'s Time, there sprung out of the Com<g ref="char:EOLhyphen"/>pany of <hi>Mercers, London,</hi> certain Merchants that attempted the Manufactu<g ref="char:EOLhyphen"/>ring the <hi>English</hi> Wooll at Home, with such Success, that, <hi>Anno</hi> 1296. they obtained Privileges of <hi>John</hi> II. Duke of <hi>Brabant,</hi> and setled their Staple for <hi>English</hi> Cloth at <hi>Antwerp;</hi> joining in Society with them, all other <hi>English</hi> Merchants resorting to those Parts.</p>
+            <p>King <hi>Henry</hi> IV. finding that this Trade, which hitherto had no other Countenance for its Support, but that of Foreign Princes; and therefore, for want of due Government, was like to decay, to the great Damage of the Nation, (as the very Charter expresseth it,) grants them a Charter, 1406. whereby the Majority had Power to make By-Laws, for the Regulation of Trade; each particular Member continuing to act separately, and the best he could, for his own particular Interest, and not in a Joint Stock; no Man be<g ref="char:EOLhyphen"/>ing, in the least, limited in point of Time, Quantity, or Price: Which Char<g ref="char:EOLhyphen"/>ter hath since been Enlarged and Confirmed by most of the Succeeding Kings and Queens of this Realm.</p>
+            <p>By virtue of which Charter, they made such wholesom By-Laws, for the preventing Frauds being put upon Strangers, either by Vending or Packing of False Cloth, and other Woollen Manufactures, that, in a short Time, they grew to that Reputation beyond the Sea, that several Princes, and Chief Ma<g ref="char:EOLhyphen"/>gistrates of Cities, became Competitors for their Residence with them; and in order thereunto, have Vied with each other, in offering them Immunities and Privileges above all other Nations; which are still enjoyed at <hi>Hamburgh, viz.</hi>
+            </p>
+            <p>That the <hi>English</hi> are always provided with Letters of Safe Conduct from the Magistrates under whom they reside; with Assurance of Six Months Time for Departure, in case of a Rupture, both as to their Persons and Estates.</p>
+            <p>That their Goods, by Mistake of Entry, are not subject to Confiscation.</p>
+            <p>That they pay far less Duties for Goods Imported and Exported, than other Merchants, and even than their own Subjects pay.</p>
+            <pb n="2" facs="tcp:176057:3"/>
+            <p>That they may dispose of their Estates, and make their Wills, according to the Laws of <hi>England;</hi> which shall be of the same Validity, as if made in <hi>England.</hi>
+            </p>
+            <p>That they shall have Civil Jurisdiction for the Administration of Law and Justice, over, and amongst the <hi>English,</hi> according to their own Laws and Customs, and the Privileges by them, in those Lands, obtained and used.</p>
+            <p>That Strangers may Sue in the Court of the Fellowship any <hi>English</hi>-Man, and he shall be obliged to abide and perform the Sentence thereof, and shall not withdraw his Action, or Appeal.</p>
+            <p>That the Fellowship may make Arrest of the Person and Goods of any <hi>Eng<g ref="char:EOLhyphen"/>lish</hi>-man by their own Authority.</p>
+            <p>That none of the Fellowship, in any Civil Action, shall be Arrested, either in his Person, or Goods, without the Fore-knowledge and Consent of the Go<g ref="char:EOLhyphen"/>vernor, or his Deputy.</p>
+            <p>That in all Cases of Capital Crime, even of High Treason, committed against their Government, by any of the Fellowship, his Estate shall, nevertheless, not be confiscated, but come to his Heirs; neither the Goods of his Principals, or Friends, in his, or any other men's Hands, be Touched, or Forfeited.</p>
+            <p>That they shall have the Free Exercise of their Religion, as Established by the Laws of <hi>England;</hi> and a Publick Place for God's Worship.</p>
+            <p>That they are provided with Houses, both Publick and Private, for their Deputy Governor, Minister, Secretary, Conserge, and other Officers, all free of Rent, and repaired by the City where they reside.</p>
+            <p>That they enjoy Freedom of all manner of Excises, as to all sorts of Beer, Wine, Fuel, and all other Provisions for House-keeping.</p>
+            <p>That they are free of all Watchings, Wardings, or Quartering of Soldiers, and all Contribution in that behalf, Real, or Personal.</p>
+            <p>All which Privileges, and several others, have been enjoyed in <hi>Holland:</hi> One whereof was, That the States should not Lay any Duties or Taxes upon our Woollen Manufacture, without the Consent and Fore-knowledge of the Company. And these Conditions were not <hi>ex Gratia,</hi> but of Right, accor<g ref="char:EOLhyphen"/>ding to the Treaty made with King <hi>James</hi> I. in the Year 1608. and may, as is supposed, be recovered again, if the Company were established. One of their chief Pretences for not Continuing all the Company's Privileges, was, That they were not maintained at home. And when King <hi>Charles</hi> II. by his Proclamation in <hi>Anno</hi> 1683. required all his Subjects that would Trade in the Woollen Manufacture of <hi>England,</hi> that they should come into the said Com<g ref="char:EOLhyphen"/>pany, or desist from intermedling in the said Trade, the Magistrates both of the City of <hi>Dordrecht,</hi> and of <hi>Rotterdam,</hi> did write their Letters of Invitation to the Company, to take their Residence in their Cities, promising them their Privileges; well knowing, what a considerable Trade would be drawn to them thereby; but the Foreigners, by their Contrivances, and Practices, pre<g ref="char:EOLhyphen"/>vented that National Advantage, whereof every <hi>English</hi>-Man might have been a Partaker.</p>
+            <p>By which Privileges, the Company have been enabled at all Times, more especially in Time of War, to relieve and send home great Numbers of <hi>English</hi> Sea-men and Soldiers; which, some Years, hath cost the Company very consi<g ref="char:EOLhyphen"/>derable Sums of Money, and yet, by reason of their Ease in Taxes, Duties, and Impositions, have been able to afford their Goods and Cloth cheaper than the Interloper and Foreigner: In lieu whereof, the Company are obliged to Import their Woollen Manufacture to their Mart-Towns.</p>
+            <pb n="3" facs="tcp:176057:3"/>
+            <p>The just Performance of all which Capitulations on both Sides, from Time to Time, made this Company so considerable in the Time of King <hi>Henry</hi> VII. that they became the Envy of some Merchants, as well Natives as Aliens; in<g ref="char:EOLhyphen"/>somuch that, in the Twelfth Year of his Reign, a Petition was preferred to the then Parliament, setting forth the Company as Monopolizers; and yet, notwithstanding, that Parliament thought it Prudence, only to lower the Fine for which all Persons were to be admitted Members thereof, to 10 Marks <hi>Ster<g ref="char:EOLhyphen"/>ling;</hi> 12. <hi>Hen.</hi> VII. <hi>Cap.</hi> 6. Since which, this Company hath flourished with great Success and Respect; and by means thereof, have not only prevented many Incroachments and Exactions on their Fellow-Subjects abroad; and by their Services, averted many Imminent Dangers that threatned this Nation in Queen <hi>Elizabeth</hi>'s Reign; and supplied the Emergencies of the Crown in the Time of King <hi>James</hi> I. but have also much augmented and encouraged <hi>English</hi> Shipping, and prevented the Departure of the Cloathing-Trade, and Loss of Subjects, by divers of their By-Laws: Such as, That none should Export, but in <hi>English</hi> Bottoms; That none should marry Foreigners, or take Burgership upon them; and such like.</p>
+            <p>Notwithstanding all which Advantages after the Restauration of King <hi>Charles</hi> the II. divers in hopes only to make some present Profit to themselves, took the Advantage to Transport <hi>Worcester</hi>-Cloths, and short White Cloths, commonly call'd Pack-Cloths of 28 Yards and 63 Pounds, into <hi>Germany,</hi> which was and had been so great a Commodity that many Thousands were Yearly Exported thither by the Company; but since such Interloping, it experimentally appears, That that Branch of the Manufactury of the Kingdom, and the Trade thereof, into the Parts of the Company's Privi<g ref="char:EOLhyphen"/>leges, through the practice of the Interloper and Foreigner, is in a manner wholly lost to the Nation: Which divers Aliens perceiving out of Design to get the further Endraping of Wooll to their own Country, and Vending thereof to themselves, endeavour all the ways they can for the Destruction of this Company, well knowing, that whilst this Regula<g ref="char:EOLhyphen"/>tion is maintained, their Ends can never be obtained.</p>
+            <p>In Order whereunto, the Interloper at first by plausible Pretences, pre<g ref="char:EOLhyphen"/>vailed on certain Clothiers in <hi>Devon</hi> and <hi>Exon,</hi> to Petition the <hi>House of Commons</hi> against this Company, which after a long Debate came to no other Result, save only a Prayer from the House to His Majesty, to make an Experiment by a Temporary Dispensation, whether a general Freedom to all, to Export Woollen Manufactures, would make a more liberal Vent, than the keeping it under Government; which Experiment His Majesty having made, and in <hi>Anno</hi> 1663. by the Petitions from most Clothing Towns in <hi>England,</hi> being satisfied in Council, that such Dispensation had not produced such expected Effects, but much the contrary, he was pleased by his Proclamation, to reinforce this Company's Charter, with an Injun<g ref="char:EOLhyphen"/>ction to all Merchants Trading to those Parts, to come into the said Re<g ref="char:EOLhyphen"/>gulation, and be Free of the Company, paying for their Admission Twenty Marks.</p>
+            <p>So that that Project failing, others have of late taken up the way of Interloping, and Transporting Woollen Cloth into <hi>Germany,</hi> to other places than where the Company resides, with Intention to ruine the Company; which Design, if not prevented, they must of necessity accomplish, and there<g ref="char:EOLhyphen"/>by carry the Woollen Manufacture from <hi>England,</hi> as hath been expe<g ref="char:EOLhyphen"/>rienced in the Case of <hi>Worcester</hi>-Cloths, and Pack-Cloths before-men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>For if they be allowed, then that part of the Capitulations made between the Company and Foreign Magistrates of Cities, whereby they are obliged
+<pb n="4" facs="tcp:176057:4"/>to bring the English Manufacture to such Mart-Towns where they reside, will be broke, the Consequence of which must naturally be the total Loss of all the Privileges and Immunities by such Stipulations to the English, being at first granted in Consideration of the Benefit that would accrue to those Mart-Towns, by making them the Staples and Places of Com<g ref="char:EOLhyphen"/>merce.</p>
+            <p>The Company being Setled at the City of <hi>Hamburgh,</hi> the most com<g ref="char:EOLhyphen"/>modious Place for the Trade of <hi>Germany,</hi> Merchants and Cloth-Buyers, make their resort thither to Supply themselves, or give Orders for the send<g ref="char:EOLhyphen"/>ing them Goods, which doth encourage the keeping their Ware-Houses furnished from 5000 <hi>l.</hi> to 20000 <hi>l.</hi> a Man in Woollen Manufactures, and for the Vent thereof, always give Six Months time of Credit, which very much encreaseth Trade, and thereby the Gentry are encouraged to breed up their Younger Sons in the way of Merchandize; and 'tis demonstra<g ref="char:EOLhyphen"/>ble, that before the Interlopers interfered with the Company, they Ex<g ref="char:EOLhyphen"/>ported in one Year upwards of 95000 Cloths, and 50000 Perpetuanoes, and other Woollen Manufactures proportionable, which then generally re<g ref="char:EOLhyphen"/>ceived for the good of the English Nation their full Manufactury in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> whereby from the Weaver to the Dyer, Setter, Presser, Tillet-maker, and Seal-maker, Thousands of poor Families in <hi>England</hi> were maintained; whereas now most sorts of Woollen Commodities are Exported white, and not fully Manufactured.</p>
+            <p>And so sensible already are the Cloth-Buyers at <hi>Hamburgh</hi> and others, who keep the most Eminent Marts in <hi>Germany,</hi> of the Mischiefs accruing towards them, by Aliens getting denization in <hi>England,</hi> and then turning Factors for Foreigners, that they have often Requested the Company at <hi>Hamburgh</hi> for Redress therein; complaining that they can no longer take off the English Woollen Manufacture, if such Aliens or Denizens are suffered to Supply the Retailer with such Trash, as they commonly do, which the Retailer again Vends, as if Bought of Members of the Company, to others, who finding so vast a difference from what it formerly was, imputes the like discredit to all English Woollen Manufacture.</p>
+            <p>It's well known that these Foreign-born Factors providing Goods for Aliens, often prove very destructive to the Clother; for having crept into Credit when they are deep in Debt, take an Opportunity to Fly the Land, and so the poor Clothier is cheated of his Cloth to his Impoverishment and Ruine.</p>
+            <p>That in the Thirtieth Year of the Reign of King <hi>Charles</hi> the II. the Clothiers of all the most Eminent clothing Counties in <hi>England,</hi> petitioned the <hi>House of Commons</hi> in behalf of this Company.</p>
+            <p>The Members of the Company are able to manage a greater Trade than ever hath been or can be driven between <hi>England</hi> and the Parts of their Pri<g ref="char:EOLhyphen"/>vileges, which Trade now being too small for their Capitals, several Mem<g ref="char:EOLhyphen"/>bers are forced to Lanch out into other Trades.</p>
+            <p>That the Opponents of the Company, tho' some of them Naturalized or Indenized, are only Lodgers, pay no Taxes, breed up no English, but Foreign Servants, and wholly employ Foreign Shipping, neither do they keep any Stock of Woollen Manufacture on their Hands beyond the Seas, whenas the English Merchants pay Taxes for their Estates both real and personal, and bear Offices in their several Stations, some whereof are both troublesome and chargeable; besides what they get they bring home to the enriching of the Nation, and the Foreigner carrieth what he gaineth into his own Country to the impoverishment of ours.</p>
+            <pb n="5" facs="tcp:176057:4"/>
+            <p>The Company being confined to Mart-Towns by their Stipulation, is the very Support of the Trade of the Wollen Manufacture in those Parts; for should the several Traders be dispers'd, no Man could be encouraged to keep quantities of Woollen Manufacture on Hand, either at <hi>Hamburgh,</hi> or any other City or Town; because there would be no Concourse of Buyers to one Place more than another; and surely it cannot be denyed but that all the Parts and Places in <hi>Germany,</hi> can be Supplied from <hi>Hamburgh,</hi> better than from <hi>England,</hi> being much nearer and more convenient for them, than to pass the Seas and come further; and if they come not to Buy their Goods themselves, they may be Supplied by the English Merchants from their Mart-Towns upon Commission as well as by their Factors in <hi>England,</hi> and on as reasonable Terms as heretofore hath been usual. And we think it is as ob<g ref="char:EOLhyphen"/>vious, that the letting of Foreigners in to be Principals in the Buying our Woollen Manufacture, will endanger the Transplanting of the same into other Countries, for who can then deny them the inspecting into all the Mysteries of our Fabricks, even from the Scowring of our Wooll, to the compleating of the Manufacture and the perusing all the Instruments used therein; and as we conceive they must change their Nature, if they should design any good to <hi>England,</hi> or the Concerns thereof, otherwise than for their own particular Advantage, when they have it in their Power to cause our Manufacture to be debased for their present Advantage, and thereby bring it in dis-esteem to Improve and Advance their own.</p>
+         </div>
+         <div type="part">
+            <head>REASONS <hi>to shew that a General Liberty hath not occasioned a greater Exportation of the</hi> Woollen Manufactures <hi>into the Privileges of the</hi> Merchants-Adventurers <hi>of</hi> ENGLAND, <hi>nor the Rise of</hi> Wooll.</head>
+            <p>NOW as to what concerneth the late Temporary Liberty given, and the Supposition of its having occasioned a more Liberal Expor<g ref="char:EOLhyphen"/>tation of the Woollen Manufacture of <hi>England,</hi> and consequently a Rise in the Price of Wooll, We humbly crave Leave to say, That it hath not arisen from the said Temporary Liberty, but from other Acci<g ref="char:EOLhyphen"/>dents attending Trade, and that the Calculation made out of the Custom-House Books in <hi>London,</hi> is no sure Rule to go by; for that considerable Quantities of Woollen Manufactures have been Entred both for <hi>Hamburgh</hi> and <hi>Holland,</hi> and yet were Shipped to other Places not within the Com<g ref="char:EOLhyphen"/>pany's Privileges. And also, for that by reason of the Wars, <hi>London</hi> hath been the Centre for the sending up thither great Quantities of all sorts of our Woollen Manufactures for Exportation into <hi>Flanders, Brabant, Zeland, Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>Germany,</hi> for the more commodious Shipping them off, and send<g ref="char:EOLhyphen"/>ing of them away with Convoy. Besides which, there hath been the more liberal Exportation of our Woollen Manufacture for these last Three Years, than in the Three foregoing Years for the Reasons following.</p>
+            <p>
+               <hi>First.</hi> The Three former Years of 87, 88, 89, were Years of Consterna<g ref="char:EOLhyphen"/>tion, the People of <hi>England</hi> not knowing what might befall them as to their
+<pb n="6" facs="tcp:176057:5"/>Religion, Laws and Liberty, whereby there was a great Damp put upon Trade, many Men seeking rather to Bury their Money under Ground, than to Adventure it abroad.</p>
+            <p>
+               <hi>Secondly.</hi> No Woollen Manufactures for the last Three Years of 90, 91, and 92. have been sent out of <hi>Ireland</hi> into the aforesaid Places, as formerly, whereby our English Manufacture hath found the greater Vent.</p>
+            <p>
+               <hi>Thirdly.</hi> By reason of the Wars between <hi>France</hi> and <hi>Germany, Holland</hi> and the <hi>Spanish Netherlands,</hi> no <hi>French</hi> Woollen Manufactures have been brought into those Parts, which formerly in great abundance were consumed there.</p>
+            <p>
+               <hi>Fourthly.</hi> Great Quantities of English Woollen Manufactury have been used to Cloath the Armies in <hi>Germany, Holland</hi> and <hi>Flanders,</hi> and by rea<g ref="char:EOLhyphen"/>son of the Fatigues, their Clothes sooner wasted and destroyed.</p>
+            <p>
+               <hi>Fifthly.</hi> Great Quantities of our Woollen Manufacture have been Ship<g ref="char:EOLhyphen"/>ped for <hi>Holland</hi> and <hi>Hamburgh,</hi> to be sent over Land for <hi>Italy,</hi> and also to be Transported by Sea from thence in their Shipping, when by reason of some Embargoes and Stops in Trade at home, they could not get them out from hence, and by such means, fore-stall the Foreign Markets before our Fleets from <hi>England</hi> came to arrive.</p>
+            <p>
+               <hi>Sixthly.</hi> The Merchants Adventurers have Exported the Woollen Ma<g ref="char:EOLhyphen"/>nufacture these Three last Years, more than they could find Vent for, be<g ref="char:EOLhyphen"/>cause the Foreigner should not totally root them out of their Trade, and the Foreigner hath endeavoured to out-vie them in it, and for a Pretence of ad<g ref="char:EOLhyphen"/>vancing the Exportation or our Woollen Manufacture, and the rooting out of the English Merchants, hath exceeded what he would otherwise have done.</p>
+            <p>
+               <hi>Seventhly.</hi> Considerable Quantities of our <hi>English</hi> Woollen Manufacture, designed for the Parts aforesaid, have been Taken by the <hi>French,</hi> for to supply the Loss of which, more hath been again sent in place thereof.</p>
+            <p>By all which, we humbly conceive it to be evident, That the Increase of the Exportation of the Woollen Manufacture in the last Three Years, more than it was in the former Three Years, hath not been occasioned by the Tem<g ref="char:EOLhyphen"/>porary Liberty given, but from the several Accidents and Reasons aforesaid: And from thence likewise that small Rise in Wooll hath happened; as also from the Causes following.</p>
+            <p>
+               <hi>First.</hi> The not having had any Wooll out of <hi>Ireland</hi> for these last Three Years.</p>
+            <p>
+               <hi>Secondly.</hi> By reason of the Rot of Sheep in the Low Grounds; which hath occasioned the Price of Long Wooll principally to Rise.</p>
+            <p>
+               <hi>Thirdly.</hi> By reason of the Scarcity and Dearness of <hi>Bengalls,</hi> and such like <hi>East-India</hi> Commodities; in place whereof, great Quantities of <hi>English</hi> Wool<g ref="char:EOLhyphen"/>len Manufactures have been made at <hi>Norwich,</hi> and other Places, and Consu<g ref="char:EOLhyphen"/>med at Home.</p>
+            <pb n="7" facs="tcp:176057:5"/>
+            <p>
+               <hi>Fourthly.</hi> By the Exportation of our <hi>English</hi> Wooll for <hi>France,</hi> notwith<g ref="char:EOLhyphen"/>standing the Prohibition.</p>
+            <p>
+               <hi>Fifthly.</hi> By the extraordinary great Quantities of Cloth, Perpetuanoes, and other Woollen Commodities, lately Shipped for <hi>Turkey, Spain, Portugal,</hi> and the <hi>Streights.</hi>
+            </p>
+            <p>And, for the Reasons aforesaid, we conceive it to be plain, That neither the Rise of Wooll, nor any Increase in the Exportation of the Woollen Manu<g ref="char:EOLhyphen"/>facture into the Liberties of the said Company, ought to be attributed to the Interloper, or Foreigner. And surely, if they had not sent out any Woollen Commodities, <hi>English</hi> Merchants would have fully supplied what they have done, and sufficiently furnished the Foreign Markets, as they have constantly heretofore: And we are heartily grieved, that any Man should think them so much degenerated from what they have been, as not to be willing, as well as able, to carry on the Trade they have been Educated in, as well, if not better, than any Foreigners whatsoever.</p>
+            <p>And if the Company of <hi>Merchants-Adventurers,</hi> and the present Members thereof, are not thought, in Number and Estates, sufficient to carry on the Trade of our Woollen Manufacture, into the Limits of their Charter, they are ready and willing to receive all <hi>English</hi> Subjects into their Society, upon such Terms and Conditions, as the Honourable <hi>House of Commons</hi> shall think fit; and to submit to such Regulations, as they, in their great Wisdom, shall ap<g ref="char:EOLhyphen"/>point.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
